@@ -11,3 +11,7 @@ https://leetcode.com/discuss/interview-question/system-design/1205825/FANG-Syste
 ### `Nearby` -
 
 https://www.youtube.com/watch?v=sPBVDDLK6Bs
+
+### `Dropbox` -
+
+https://www.youtube.com/watch?v=U0xTu6E2CT8
