@@ -16,6 +16,10 @@ https://www.youtube.com/watch?v=sPBVDDLK6Bs
 
 https://www.youtube.com/watch?v=U0xTu6E2CT8
 
+### `Distributed Cache` -
+
+https://www.youtube.com/watch?v=a1Cm7vt0_zI&list=PL564gOx0bCLrojSypYm-MnmJrJNlaGc6q&index=1
+
 ### `Notification Service` -
 
 https://www.youtube.com/watch?v=CUwt9_l0DOg
