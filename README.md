@@ -8,9 +8,13 @@ Akshay github(grokking the system design interview) - https://akshay-iyangar.git
 
 https://leetcode.com/discuss/interview-question/system-design/1205825/FANG-System-Design-Interview-Preparation-Master-Doc
 
-### `Nearby` -
+### `Nearby/Yelp` -
 
 https://www.youtube.com/watch?v=sPBVDDLK6Bs
+
+### `Uber Backend` -
+
+https://akshay-iyangar.github.io/system-design/grokking-system-design/system-design-problems/uber-backend.html
 
 ### `Dropbox` -
 
