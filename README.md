@@ -2,7 +2,7 @@
 
 This repo contains useful links of HLD designs and concepts
 
-Akshay github(grokking the system design interview) - https://akshay-iyangar.github.io/system-design/
+Akshay github(**grokking the system design interview**) - https://akshay-iyangar.github.io/system-design/
 
 ### `Maseter doc` -
 
