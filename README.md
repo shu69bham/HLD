@@ -8,6 +8,10 @@ Akshay github(**grokking the system design interview**) - https://akshay-iyangar
 
 https://leetcode.com/discuss/interview-question/system-design/1205825/FANG-System-Design-Interview-Preparation-Master-Doc
 
+### `Consistent Hashing` -
+
+https://www.toptal.com/big-data/consistent-hashing
+
 ### `Nearby/Yelp` -
 
 https://www.youtube.com/watch?v=sPBVDDLK6Bs
