@@ -2,7 +2,7 @@
 
 This repo contains useful links of HLD designs and concepts
 
-Best resource - Akshay github(**grokking the system design interview**) - https://akshay-iyangar.github.io/system-design/
+**Best resource** by Akshay github (**grokking the system design interview**) - https://akshay-iyangar.github.io/system-design/
 
 ### `Leetcode HLD sheet` -
 
